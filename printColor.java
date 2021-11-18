@@ -5,9 +5,7 @@ public class printColor {
         printColor();
     } 
     public static void printColor() {
-        int value = -6 ;
-        
-        
+    int value = -6 ;
         if (value <= 0) {
             System.out.println( "Красный" );
         } 
