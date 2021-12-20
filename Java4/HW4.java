@@ -1,7 +1,7 @@
 /**
 *Java 4 HW4 
 *@author Iurii Lenin
-*@version 19.11.2021
+*@version 20.12.2021
 **/
 
 import java.util.Random;
